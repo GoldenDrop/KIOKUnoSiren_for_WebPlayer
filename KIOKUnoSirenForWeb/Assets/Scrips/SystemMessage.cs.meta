@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5003ffcf266ad7543989af0002c0d746
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blackCurtainPrefab: {fileID: 100000, guid: 9852d90393db3c7408227f4100e7b491, type: 2}
+  - stageClearPrefab: {instanceID: 0}
+  - GameCearPrefab: {instanceID: 0}
+  - gameOverPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

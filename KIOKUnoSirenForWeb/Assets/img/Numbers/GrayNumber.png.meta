@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 858c1ace9cb768e44bbd8cdb577471f3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gray_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 70
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_?
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_+
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_-
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 22
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_*
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_/
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_=
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 14
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_#
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 9
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_&
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 9
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_<
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 11
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Gray_>
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 11
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

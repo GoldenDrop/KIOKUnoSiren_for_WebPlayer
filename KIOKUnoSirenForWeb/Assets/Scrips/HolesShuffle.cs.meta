@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e6de18547364c294aa68ec5c3e8e91c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - holesBoxPrefab: {fileID: 100000, guid: b4500172686bfd24f97d2c3fc55900df, type: 2}
+  - holePrefab: {fileID: 100000, guid: a78e51f74cd1ad848aafeeb7895c4971, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

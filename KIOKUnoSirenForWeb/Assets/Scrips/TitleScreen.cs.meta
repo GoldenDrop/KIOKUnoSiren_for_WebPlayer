@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b1a96e9a47f395940855bd8be484cd8f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - titlePrefab: {fileID: 100000, guid: eb55ea0f8d07fe149a2f1e41a035f5be, type: 2}
+  - touchStartTextPrefab: {fileID: 100000, guid: 30b09a1765ae0294e897a65e6279ed6f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
